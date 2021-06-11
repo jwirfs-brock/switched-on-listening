@@ -22,8 +22,9 @@ title: Switched on Listening
 email: wirfsbro@colorado.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A digital poster for ICAD 2021 about how video analysis of "Switched on Pop" can uncover techniques for helping people learn how to listen to sounds analytically.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: jwirfs-brock.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://jwirfs-brock.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /switched-on-listening/      # place folder name if the site is served in a subfolder   
 twitter_username: jordanwb
 github_username:  jwirfs-brock
 
