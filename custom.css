@@ -1,0 +1,13 @@
+// Custom.css
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../bootstrap/css/bootstrap";
+
+// Then add additional custom code here
+
+h1{
+  color:#d0a7c6;
+  background-color:#ffffff;
+}
